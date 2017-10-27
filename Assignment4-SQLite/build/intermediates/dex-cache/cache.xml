@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e37ad3a156c564be383fdb0da50ff09649784904">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_62062d071770ffd2021395a1815248f227ebfd5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_36cc59925f68b7df1c3fb0011d781b5d760ccc97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_5b34f84a8a8a3316a7e4fa3756aa70cedd0e7989\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_307cc7dc420669bf8d0b14556baeda87c3c1e160\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.0_a7d72911329fd73528858f2c5de2b76e9241b5f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_a07073a4806a1a60044f0265bccb1906a0b600d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_79170cf6421f320bdd56da86c2e0cac13883dddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_b2069f2ae7bd090b841a1c4bd75b45732df2e5d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_34dbcce3ebc1126bcd668c2d6b70c5a4eabfd152\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_b5c6cbe9dca76fbce29b4c927e8b9d1e8e05ec1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1db024cbe6e7a891bafdf5abfd76d38d1fb0967e">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_08915c8ffc41390ee6503f1d8663f25408a29174\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_96d052ee3c71253017bcfb7478e4360cefeebad6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Damon\AndroidStudioProjects\Assignment4-SQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_28957a6d17890387c27832e610fc692eccdee0f4\classes.dex" />
+    </item>
+
+</items>
